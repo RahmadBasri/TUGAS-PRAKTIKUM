@@ -1,0 +1,46 @@
+#TUGAS PRAKTIKUM
+#BAHASA PEMROGRAMAN
+print('NAMA  : RAHMAD BASRI')
+print('KELAS : TI.19.D1')
+print('NIM   : 311910060')
+print("======================================================================")
+
+nama1=[]
+nim1=[]
+kelas1=[]
+UTS1=[]
+UAS1=[]
+TUGAS1=[]
+akhir1=[]
+jawab ='ya'
+while jawab =='ya':
+    nama =input("NAMA :")
+    nim =input("NIM :")
+    kelas =input("KELAS :")
+    uts =float(input("UTS :"))
+    uas =float(input("UAS :"))
+    tugas =float(input("TUGAS :"))
+    akhir = (tugas)*30/100 + (uts)*35/100 + (uas)*35/100 
+
+    nama1.append(nama)
+    nim1.append(nim)
+    kelas1.append(kelas)
+    UTS1.append(uts)
+    UAS1.append(uas)
+    TUGAS1.append(tugas)
+    akhir1.append(akhir)
+
+    jawab = (input('tambah data?(ya/tidak)'))
+    if jawab == 'tidak':
+
+      print('===================================================================================')
+      print('| No |  NAMA    |   NIM      |  KELAS    |   TUGAS    |  UTS   |  UAS  | akhir |');
+      print('====================================================================================')
+      for i in range(len(nama1)):
+       print("|", i+1 ,"|",  nama1[i]  ,"  |",  nim1[i]  ,"|",  kelas1[i]  ,"|",  TUGAS1[i]  ,"|",  UTS1[i]  ,"|",  UAS1[i]  ,"|",  akhir1[i],"|")
+
+       
+    
+
+
+
