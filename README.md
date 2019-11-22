@@ -37,5 +37,3 @@ dan juga buat perintah = jawab ='ya'
 ![RUN PRAKTIKUM](https://user-images.githubusercontent.com/57025005/69408061-95c0ed80-0d38-11ea-9b44-3969d9a3ec5a.PNG)
 
 Ini FLOWCHARTNYA.=================================================
-
-![prktkm flchrt](https://user-images.githubusercontent.com/57025005/69455999-385e8800-0d9c-11ea-990b-6f191dddc74a.jpg)
