@@ -1,7 +1,7 @@
 PRAKTIKUM
 MATERI LIST
 PENJELASANNYA =
-# Buatlah list biodata, bebas/biodata pembuat...
+#BUAT BIODATA BEBAS, (UNTUK PENGENAL)
 
 ![prktkm 1](https://user-images.githubusercontent.com/57025005/69406827-9906aa00-0d35-11ea-975f-6463a6368477.PNG)
 
