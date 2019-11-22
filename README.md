@@ -10,7 +10,8 @@ PENJELASANNYA =
 MULAI :
 
 
-1.) buatlah list kosong yang nantinya akan diisi data yang akan diinput. dan juga buat perintah = jawab ='ya'
+1.) buatlah list kosong yang nantinya akan diisi data yang akan diinput. 
+dan juga buat perintah = jawab ='ya'
                            while jawab =='ya' :
 
 ![prktkm 2](https://user-images.githubusercontent.com/57025005/69406925-d4a17400-0d35-11ea-8e17-a1476e27f545.PNG)
